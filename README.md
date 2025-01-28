@@ -9,14 +9,15 @@
 - **User Authentication**
   
 ## 🧠 AI Integration  
-- **Cycle Prediction:** Utilizes Machine Learning to calculate menstrual cycles and ovulation periods.  
+- **Cycle Prediction:**
+    - Utilizes Machine Learning to calculate menstrual cycles and ovulation periods.  
 - **Anomaly Detection:**
     - Identifies irregularities in menstrual patterns using AI-based anomaly detection models.  
 - **Personalized Recommendations:**
-    Provides tailored advice using recommendation systems.  
+    - Provides tailored advice using recommendation systems.  
 - **NLP:**
-    Analyzes user inputs and offers responses aligned with Islamic guidelines.  
+    - Analyzes user inputs and offers responses aligned with Islamic guidelines.  
 - **Privacy Protection:**
-    Implements Federated Learning to safeguard user data.  
+    - Implements Federated Learning to safeguard user data.  
 
 
