@@ -10,7 +10,7 @@
   
 ## 🧠 AI Integration  
 - **Cycle Prediction:**
-    Utilizes Machine Learning to calculate menstrual cycles and ovulation periods.  
+  Utilizes Machine Learning to calculate menstrual cycles and ovulation periods.  
 - **Anomaly Detection:**
     Identifies irregularities in menstrual patterns using AI-based anomaly detection models.  
 - **Personalized Recommendations:**
